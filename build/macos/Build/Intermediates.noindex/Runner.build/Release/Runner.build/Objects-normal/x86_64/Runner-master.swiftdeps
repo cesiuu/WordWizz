@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "945abcd11750b13e1e29cc5af81253ecb858432156579882ad36e49a3b3fa524"
+build_start_time: [1724064422, 54068000]
+build_end_time: [1724064426, 39807000]
+inputs:
+  ? "/Users/wiktor/wordwizz/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1724064421, 947208704]
+  "/Users/wiktor/wordwizz/macos/Flutter/GeneratedPluginRegistrant.swift": [1724064403, 868275406]
+  "/Users/wiktor/wordwizz/macos/Runner/AppDelegate.swift": [1724058240, 426454643]
+  "/Users/wiktor/wordwizz/macos/Runner/MainFlutterWindow.swift": [1717692572, 0]

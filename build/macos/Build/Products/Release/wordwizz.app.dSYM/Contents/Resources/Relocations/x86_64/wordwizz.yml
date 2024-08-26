@@ -1,0 +1,19 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/wiktor/wordwizz/build/macos/Build/Products/Release/wordwizz.app/Contents/MacOS/wordwizz'
+relocations:
+  - { offsetInCU: 0x27, offset: 0xC93A8, size: 0x8, addend: 0x0, symName: '_$s8wordwizz17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x100001590, symSize: 0xF0 }
+  - { offsetInCU: 0x61, offset: 0xC93E2, size: 0x8, addend: 0x0, symName: '_$s8wordwizz17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x100001590, symSize: 0xF0 }
+  - { offsetInCU: 0xF9, offset: 0xC947A, size: 0x8, addend: 0x0, symName: '_$s8wordwizz17MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleH0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xF0, symBinAddr: 0x100001680, symSize: 0x80 }
+  - { offsetInCU: 0x172, offset: 0xC94F3, size: 0x8, addend: 0x0, symName: '_$s8wordwizz17MainFlutterWindowCMa', symObjAddr: 0x1A0, symBinAddr: 0x100001730, symSize: 0x14 }
+  - { offsetInCU: 0x3B7, offset: 0xC9738, size: 0x8, addend: 0x0, symName: '_$s8wordwizz17MainFlutterWindowCfD', symObjAddr: 0x170, symBinAddr: 0x100001700, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0xC9782, size: 0x8, addend: 0x0, symName: '_$s8wordwizz11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100001750, symSize: 0x10 }
+  - { offsetInCU: 0x4B, offset: 0xC97A6, size: 0x8, addend: 0x0, symName: '_$s8wordwizz11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100001750, symSize: 0x10 }
+  - { offsetInCU: 0x7D, offset: 0xC97D8, size: 0x8, addend: 0x0, symName: '_$s8wordwizz11AppDelegateCACycfcTo', symObjAddr: 0x10, symBinAddr: 0x100001760, symSize: 0x30 }
+  - { offsetInCU: 0xE4, offset: 0xC983F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x70, symBinAddr: 0x1000017C0, symSize: 0x30 }
+  - { offsetInCU: 0x12E, offset: 0xC9889, size: 0x8, addend: 0x0, symName: '_$s8wordwizz11AppDelegateCMa', symObjAddr: 0xA0, symBinAddr: 0x1000017F0, symSize: 0x14 }
+  - { offsetInCU: 0x23F, offset: 0xC999A, size: 0x8, addend: 0x0, symName: '_$s8wordwizz11AppDelegateCfD', symObjAddr: 0x40, symBinAddr: 0x100001790, symSize: 0x30 }
+  - { offsetInCU: 0x2B, offset: 0xC9A08, size: 0x8, addend: 0x0, symName: '_$s8wordwizz19ResourceBundleClass33_9F6BD0E9CE9453ABF93D35B2A2EC2B01LLCfD', symObjAddr: 0x0, symBinAddr: 0x100001810, symSize: 0x20 }
+  - { offsetInCU: 0x6D, offset: 0xC9A4A, size: 0x8, addend: 0x0, symName: '_$s8wordwizz19ResourceBundleClass33_9F6BD0E9CE9453ABF93D35B2A2EC2B01LLCMa', symObjAddr: 0x20, symBinAddr: 0x100001830, symSize: 0x14 }
+  - { offsetInCU: 0x13B, offset: 0xC9B18, size: 0x8, addend: 0x0, symName: '_$s8wordwizz19ResourceBundleClass33_9F6BD0E9CE9453ABF93D35B2A2EC2B01LLCfD', symObjAddr: 0x0, symBinAddr: 0x100001810, symSize: 0x20 }
+...
